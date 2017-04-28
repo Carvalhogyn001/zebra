@@ -10,6 +10,10 @@
 #include <stdio.h>
 #include <conio.h> 
 
+/******************************************
+***        CHRISTIAN ALVES               ***
+***       ca.oaky@gmail.com              ***
+********************************************/
 
 using namespace std;
 
